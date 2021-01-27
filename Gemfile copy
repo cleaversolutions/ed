@@ -1,0 +1,6 @@
+source "https://rubygems.org"
+gemspec
+
+gem "html-proofer"
+
+ruby '~> 2.5.8'
