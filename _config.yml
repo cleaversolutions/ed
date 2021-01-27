@@ -4,8 +4,8 @@
 title:               Ethics
 tagline:             "Resources for Matt Cleaver's ethics classes"
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+url:                 'https://boring-lamport-d2e903.netlify.app/'
+baseurl:             ''
 
 # About/contact
 author:
